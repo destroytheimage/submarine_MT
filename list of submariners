@@ -1,13 +1,13 @@
-GB grigory baluev
-VP vladimir petrosian
-DY daniiar iusupov
-RT roman timashev
+GB grigory baluev -------- WP
+VP vladimir petrosian ---- INT
+DY daniiar iusupov    ---- INT
+RT roman timashev -------- NOT/designteam
 AS artem stepanov
 VT valery tolkacheva
 JG july gankevich
-PK polina k
-AM zipfile
-AA alexey arushanyan
+PK polina korsakova
+AM zipfile --------------- NOT/designteam
+AA alexey arushanyan ----- MAE
 NM nikolay medvedenko
 AN artem nikitin
 PSh petr shuba
@@ -16,3 +16,4 @@ AK arina krasakova
 NK nadie smith
 AB alena barsukova
 LK lyudmila korotina
+AP sacha popravko
