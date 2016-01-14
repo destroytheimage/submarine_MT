@@ -1,5 +1,5 @@
 
 ## Название файла
 ```bash
-XXX_<section>_XX.md
+XXX_<section>_<type>_XX.md
 ```
