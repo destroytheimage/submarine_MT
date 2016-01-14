@@ -1,5 +1,5 @@
 
 ## Название файла
 ```bash
-page-<number>.md
+page-<number>-rus.md
 ```
