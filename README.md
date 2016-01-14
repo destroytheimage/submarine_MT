@@ -5,6 +5,7 @@ pls see [о проекте](https://github.com/destroytheimage/submarine_MT/wiki
 
 список [разделов+участников] (https://github.com/destroytheimage/submarine_MT/blob/00/chapters+contributors) <br>
 
+#### _list of submariners_ 14.01.2016
 >01 **GB** grigory baluev <br>
  02 **VP** vladimir petrosian <br>
  03 **DY** daniiar iusupov <br>
