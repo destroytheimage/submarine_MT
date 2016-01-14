@@ -20,14 +20,14 @@ LK lyudmila korotina ---------- MAN / MAR
 AP sacha popravko ------------- WP  / LIV
 IK ira kuchumova -------------- URB / MAR
 GG galileo galiley ------------ ??
-OB ola belova ----------------- ??
+OB ola belova ----------------- INF / URB
 
 // chaptersID + #envelopesJPG/#pagesPDFbook + contributors/submariners
 INT  introduction ------------- 000 - 017 / 000 - 029 DY VP
-URB  urban economies ---------- 018 - 025 / 030 - 045 AB IK
+URB  urban economies ---------- 018 - 025 / 030 - 045 AB IK OB
 MOV  movement economies ------- 026 - 036 / 046 - 067 AS NM
 ENE  energy economies --------- 037 - 045 / 068 - 085 ASh JG
-INF  information economies ---- 046 - 055 / 086 - 105 VP AN
+INF  information economies ---- 046 - 055 / 086 - 105 VP AN OB
 IMA  image economies ---------- 056 - 065 / 106 - 125 GB AK AN
 MAR  market economies --------- 066 - 072 / 126 - 139 PK LK
 MAT  material economies ------- 073 - 081 / 140 - 157 AA NK
