@@ -3,7 +3,7 @@
 wiki section is unwrapping <br>
 pls see [о проекте](https://github.com/destroytheimage/submarine_MT/wiki/%D0%BE-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5) and [дневник] (https://github.com/destroytheimage/submarine_MT/wiki/дневник) sections
 
-список [разделов+участников] (https://github.com/destroytheimage/submarine_MT/blob/00/chapters+contributors) <br>
+список [разделов+участников] (https://github.com/destroytheimage/submarine_MT/wiki/%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%8B-%D0%BF%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8) <br>
 
 #### _list of submariners_ 14.01.2016
 >01 **GB** grigory baluev <br>
