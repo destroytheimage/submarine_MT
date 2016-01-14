@@ -1,5 +1,5 @@
 
 ## Название файла
 ```bash
-page-<number>.md
+XXX_<section>_<type>_XX.md
 ```
