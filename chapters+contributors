@@ -1,0 +1,38 @@
+// contributors/submariners + chapters/stages
+GB grigory baluev ------------- WP  / IMA
+VP vladimir petrosian --------- INT / END / INF 
+DY daniiar iusupov    --------- INT / END / designteam
+RT roman timashev ------------- NOT/designteam
+AS artem stepanov ------------- MOV / MIL
+VT valery tolkacheva
+JG july gankevich ------------- ENE / MIL
+PK polina kiseleva ------------ LIV
+AM zipfile -------------------- NOT/designteam
+AA alexey arushanyan ---------- MAT
+NM nikolay medvedenko --------- MOV
+AN artem nikitin -------------- MOV / IMA
+PSh petr shuba ---------------- MAN
+ASh alfia sh ------------------ ENE
+AK arina krasakova ------------ LIV / IMA
+NK nadie smith ---------------- MAT
+AB alena barsukova ------------ URB / MIL
+LK lyudmila korotina ---------- MAN / MAR
+AP sacha popravko ------------- WP  / LIV
+IK ira kuchumova -------------- URB / MAR
+GG galileo galiley ------------ ??
+OB ola belova ----------------- INF / URB
+
+// chaptersID + #envelopesJPG/#pagesPDFbook + contributors/submariners
+INT  introduction ------------- 000 - 017 / 000 - 029 DY VP
+URB  urban economies ---------- 018 - 025 / 030 - 045 AB IK OB
+MOV  movement economies ------- 026 - 036 / 046 - 067 AS NM
+ENE  energy economies --------- 037 - 045 / 068 - 085 ASh JG
+INF  information economies ---- 046 - 055 / 086 - 105 VP AN OB
+IMA  image economies ---------- 056 - 065 / 106 - 125 GB AK AN
+MAR  market economies --------- 066 - 072 / 126 - 139 PK LK
+MAT  material economies ------- 073 - 081 / 140 - 157 AA NK
+MIL  military economies ------- 082 - 092 / 158 - 179 JG AS AB
+MAN  manufacturing economies -- 093 - 100 / 180 - 195 PSh IK
+LIV  living economies --------- 101 - 110 / 196 - 215 PK AK AP
+WP   wealth and politics ------ 111 - 119 / 216 - 233 GB AP
+END  afterwords --------------- 120 - 124 / 234 - 243 DY VP
