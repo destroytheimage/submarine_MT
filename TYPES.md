@@ -38,5 +38,5 @@ The majority of ...
 
 В конце
 ```md
-_Hernando de Soto is president of ..._
+*Hernando de Soto is president of ...*
 ```
