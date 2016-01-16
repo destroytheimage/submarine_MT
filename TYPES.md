@@ -40,3 +40,28 @@ The majority of ...
 ```md
 *Hernando de Soto is president of ...*
 ```
+
+## Стандартный разворот
+```
+default
+```
+Под стандартный тип попадает большинство разворотов.
+Не на каждом развороте присутствуют все элементы.
+
+![](https://raw.githubusercontent.com/destroytheimage/submarine_MT/develop/Spreads/019eng.jpg)
+
+Подпись к картинке
+```md
+**1.01** DYnamic-MAXimum-TensION ...
+```
+
+Большая надпись
+```md
+# Manufacturing Housing ...
+```
+
+Цитата под большой надписью
+```md
+> The manufactured house is ...
+> -- <cite>Paul Rudolph ...</cite>
+```
