@@ -65,3 +65,11 @@ default
 > The manufactured house is ...
 > -- <cite>Paul Rudolph ...</cite>
 ```
+
+![](https://raw.githubusercontent.com/destroytheimage/submarine_MT/develop/Spreads/028eng.jpg)
+
+Цитата
+```md
+> The manufactured house is ...
+> -- <cite>Paul Rudolph ...</cite>
+```
