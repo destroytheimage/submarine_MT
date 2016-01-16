@@ -70,6 +70,6 @@ default
 
 Цитата
 ```md
-> The manufactured house is ...
-> -- <cite>Paul Rudolph ...</cite>
+> «Consider the following ...
+> -- <cite>Dan Stugres ...</cite>
 ```
