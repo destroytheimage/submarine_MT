@@ -55,6 +55,11 @@ default
 **1.01** DYnamic-MAXimum-TensION ...
 ```
 
+Или так
+```md
+![1.01 DYnamic-MAXimum-TensION ...](https://raw.githubusercontent.com/destroytheimage/submarine_MT/develop/Spreads/019eng.jpg)
+```
+
 Большая надпись
 ```md
 # Manufacturing Housing ...
